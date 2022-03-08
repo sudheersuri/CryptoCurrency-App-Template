@@ -3,7 +3,7 @@
 
 A beautiful Cryptocurrency wallet mobile application template developed using Expo react native.
 
-Demo : https://snack.expo.dev/@sudhirsuri43/transportation-ui
+Demo : https://snack.expo.dev/@sudhirsuri43/crypto-currency-app-ui
 
 Design created by freepik www.freepik.com
 
